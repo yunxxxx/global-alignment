@@ -1,1 +1,1 @@
-# global-alignment
+# global-alignment and local alignment
